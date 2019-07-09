@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">mFlix</string>
+    <string name="title_movie">Movie</string>
+    <string name="title_tvshow">TV Show</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="film_name">Film Name</string>
+    <string name="release_date">Release Date</string>
+    <string name="rating">Rating</string>
+    <string name="rekomendasi_film">Rekomendasi Film</string>
+    <string name="rekomendasi_film_terpopuler_ada_disini_untuk_anda">Rekomendasi film terpopuler ada disini untuk anda</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="tv_show">TV Show</string>
+    <string name="rekomendasi_tv_show">Rekomendasi TV Show</string>
+    <string name="rekomendasi_series_tv_hanya_untuk_anda">Rekomendasi series TV hanya untuk anda</string>
+
+
+</resources>

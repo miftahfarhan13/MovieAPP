@@ -14,4 +14,17 @@
     <string name="title_tvshow">TV Show</string>
     <string name="tv_show">TV Show</string>
     <string name="ubah_bahasa">Change Language</string>
+    <string name="favorit">Favorite</string>
+    <string name="daftar_film_favorit">List Of Favorite Movie</string>
+    <string name="daftar_acara_tv_favorit">List Of Favorite Tv Show</string>
+    <string name="belum_menambahkan_film_favorit">Haven\'t added a favorite movie yet</string>
+    <string name="belum_menambahkan_acara_tv_favorit">Haven\'t added any favorite TV shows</string>
+    <string name="appwidget_text">M-FLIX BANNER</string>
+    <string name="empty_text">NO DATA</string>
+    <string name="action_search">Search</string>
+
+    <string name="pengingat_aplikasi_harian">Daily Notification</string>
+    <string name="pengingat_film_yang_akan_datang">Upcoming Movie Notification</string>
+    <string name="setting_notifikasi">Notification Setting</string>
+    <string name="poster_dari_film_atau_tv_show">Poster from Movie or Tv Show</string>
 </resources>

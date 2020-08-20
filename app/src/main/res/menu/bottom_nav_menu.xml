@@ -11,5 +11,12 @@
         android:icon="@drawable/icons8_tv_on_80"
         android:title="@string/title_tvshow" />
 
+    <item
+        android:id="@+id/navigation_favourite"
+        android:icon="@drawable/ic_favorite"
+        android:title="@string/favorit" />
+
+
+
 
 </menu>

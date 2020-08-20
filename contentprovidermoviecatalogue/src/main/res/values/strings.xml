@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">ContentProviderMovieCatalogue</string>
+    <string name="title_movie">Film</string>
+    <string name="title_tvshow">Acara TV</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="film_name">Nama Film</string>
+    <string name="release_date">Tanggal Rilis</string>
+    <string name="rating">Penilaian</string>
+    <string name="rekomendasi_film">Rekomendasi Film</string>
+    <string name="rekomendasi_film_terpopuler_ada_disini_untuk_anda">Rekomendasi film terpopuler ada disini untuk anda</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="tv_show">Acara TV</string>
+    <string name="rekomendasi_tv_show">Rekomendasi acara TV</string>
+    <string name="rekomendasi_series_tv_hanya_untuk_anda">Rekomendasi series TV hanya untuk anda</string>
+    <string name="movie_name">Nama Film</string>
+    <string name="ubah_bahasa">Ubah Bahasa</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="favorit">Favorit</string>
+    <string name="daftar_film_favorit">Daftar Film Favorit</string>
+    <string name="daftar_acara_tv_favorit">Daftar Acara Tv Favorit</string>
+    <string name="belum_menambahkan_film_favorit">Belum menambahkan film favorit</string>
+    <string name="belum_menambahkan_acara_tv_favorit">Belum menambahkan acara TV favorit</string>
+
+    <string name="appwidget_text">GAMBAR M-FLIX</string>
+    <string name="empty_text">NO DATA</string>
+    <string name="action_search">Cari</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="pengingat_aplikasi_harian">Pengingat Aplikasi Harian</string>
+    <string name="pengingat_film_yang_akan_datang">Pengingat Film yang Akan Datang</string>
+    <string name="setting_notifikasi">Setting Notifikasi</string>
+    <string name="film_favorit_anda">Film Favorit Anda</string>
+</resources>

@@ -16,5 +16,23 @@
     <string name="movie_name">Nama Film</string>
     <string name="ubah_bahasa">Ubah Bahasa</string>
 
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="favorit">Favorit</string>
+    <string name="daftar_film_favorit">Daftar Film Favorit</string>
+    <string name="daftar_acara_tv_favorit">Daftar Acara Tv Favorit</string>
+    <string name="belum_menambahkan_film_favorit">Belum menambahkan film favorit</string>
+    <string name="belum_menambahkan_acara_tv_favorit">Belum menambahkan acara TV favorit</string>
+
+    <string name="appwidget_text">GAMBAR M-FLIX</string>
+    <string name="empty_text">NO DATA</string>
+    <string name="action_search">Cari</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="pengingat_aplikasi_harian">Pengingat Aplikasi Harian</string>
+    <string name="pengingat_film_yang_akan_datang">Pengingat Film yang Akan Datang</string>
+    <string name="setting_notifikasi">Setting Notifikasi</string>
+    <string name="poster_dari_film_atau_tv_show">Poster dari Film atau Tv Show</string>
+
 
 </resources>

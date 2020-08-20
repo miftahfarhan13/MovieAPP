@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_movie"
+        android:icon="@drawable/icons8_movie_80"
+        android:title="@string/title_movie" />
+
+    <item
+        android:id="@+id/navigation_tvshow"
+        android:icon="@drawable/icons8_tv_on_80"
+        android:title="@string/title_tvshow" />
+
+
+</menu>
